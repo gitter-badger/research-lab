@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/dreamwer/research-lab/blob/master/research-lab_icon.png?raw=true" width="150"/>
+    <img src="https://github.com/dreamwer/research-lab/blob/master/.icons/research-lab_icon.png?raw=true" width="150"/>
 </p>
 <p align="center"> The repository for all you developpement research 🔬 </p>
 <hr>
